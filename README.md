@@ -37,4 +37,6 @@ The Minimax algorithm is a popular choice for creating an unbeatable Tic Tac Toe
 * Evaluation: It evaluates the board state after each move.
 * Maximizing and Minimizing:
 When it’s the AI’s turn, it chooses the move with the maximum score.
+
+When it’s the opponent’s turn, it chooses the move with the minimum score.
 When it’s the opponent’s turn, it chooses the move with the minimum score.
